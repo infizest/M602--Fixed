@@ -4,6 +4,7 @@
 #include <vector>
 #include <string>
 
-void analyzeCarbonFootprint(const std::vector<std::vector<std::string>>& data);
+std::vector<std::string> analyzeCarbonFootprint(const std::vector<std::vector<std::string>>& data);
+
 
 #endif
